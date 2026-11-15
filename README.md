@@ -6,16 +6,18 @@ The scene only shows in the Claude desktop and mobile apps. The terminal doesn't
 
 ## Install
 
-At the prompt of a terminal session:
-
-```
-/plugin install caderno-harbour --marketplace diegorezm/caderno-harbour
-```
-
 From a shell:
 
 ```bash
-claude plugin install caderno-harbour --marketplace diegorezm/caderno-harbour
+claude plugin marketplace add diegorezm/caderno-harbour
+claude plugin install caderno-harbour@caderno-harbour
+```
+
+Or at the prompt of a Claude Code session:
+
+```
+/plugin marketplace add diegorezm/caderno-harbour
+/plugin install caderno-harbour@caderno-harbour
 ```
 
 In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `diegorezm/caderno-harbour`, then Add plugin.
