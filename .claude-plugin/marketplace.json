@@ -1,0 +1,5 @@
+{
+  "name": "caderno-harbour",
+  "owner": { "name": "diegorezm" },
+  "plugins": [{ "name": "caderno-harbour", "source": "./" }]
+}
