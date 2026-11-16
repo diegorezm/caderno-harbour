@@ -4,6 +4,8 @@ A Claude Code theme based on [diegorezm.github.io](https://diegorezm.github.io/)
 
 The scene only shows in the Claude desktop and mobile apps. The terminal doesn't draw themes.
 
+![The night harbour scene drawn behind the conversation](assets/preview.svg)
+
 ## Install
 
 From a shell:
